@@ -7,3 +7,6 @@
 }
 button{background-color: darkgreen;}
 button:hover{background-color: indianred;}
+div img{
+    border-radius: 300px;
+}

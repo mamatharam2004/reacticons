@@ -43,6 +43,8 @@ const Body1 = () => {
             <br/>
             <div style={{ paddingTop: '50px' }}>
                 <center><label htmlFor="Name"><b>Name :</b> </label>
+                <input type="text" value={text} onChange={(e) => setText(e.target.value)} /><br/>
+                <label htmlFor="email"><b>email :</b> </label>
                 <input type="text" value={text} onChange={(e) => setText(e.target.value)} />
                 <p>Output : {text}</p>
                 <button onClick={reset}><b>Reset</b></button></center>

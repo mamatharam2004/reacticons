@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "hii",
+      "id": 6
+    },
+    {
+      "title": "hii chandana",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "hii chandana",
+      "completed": false,
+      "id": 8
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
